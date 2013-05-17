@@ -1,4 +1,4 @@
-go_slide
+my_slides
 ========
 
-My original slide for Go.
+My original slides.
